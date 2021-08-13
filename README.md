@@ -6,4 +6,6 @@ Pistachio Studioからここにたどりついた人、[安藤つ良しの配信
 
 [Join Discrod server](https://discord.gg/6XbCyRF)  
 
+このリポジトリは[wiki](https://github.com/pistachiostudio/gaming/wiki)を利用するために作成しました。
+
 <img src="https://user-images.githubusercontent.com/4445606/129143937-ce2f95cc-3a98-4030-bc3c-b2f37a96b0f4.gif" width="300">  
