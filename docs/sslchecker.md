@@ -3,7 +3,10 @@
 仲のいいラップグループ chelmicoの[オフィシャルサイト](http://chelmico.com/)がSSL非対応であることをからかったりしているうちに、気がついたらミュージシャンやアーティストのサイトでSSLになっていないホームページを面白がって報告しあうようになった。
 
 更に調子が出てきて、[ピスタチオスタジオゲーム部のDiscordサーバー](https://discord.com/pistachiogaming)でNOT SSLを監視する仕組みづくり始まり、出来上がったのがこれ。  
-[https://ssl-checker.vercel.app/](https://ssl-checker.vercel.app/)
+
+[https://ssl-checker.vercel.app/](https://ssl-checker.vercel.app/)  
+![image](https://user-images.githubusercontent.com/4445606/141156294-72e347a5-03cb-4446-84f7-72ed14393be2.png)
+
 
 ## 使い方
 
