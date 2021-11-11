@@ -21,7 +21,7 @@
 ## これまでの華々しい実績
 
 - ネットレーベル [Trekkie TraxのHP](https://www.trekkie-trax.com/)をSSL対応へと導いた
-- ミュージシャン [in the blue shirtsのHP](https://intheblueshirt.com/)をSSL対応へと導いた
+- ミュージシャン [in the blue shirtのHP](https://intheblueshirt.com/)をSSL対応へと導いた
 - アーティスト [exonemoのHP](https://exonemo.com/)をSSL対応へと導いた
   - ※ただしexonemoはhttp→httpsへのリダイレクト設定がされていない。なんとかしたい。
 
