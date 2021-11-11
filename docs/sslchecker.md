@@ -4,7 +4,7 @@
 
 仲のいいラップグループ chelmicoの[オフィシャルサイト](http://chelmico.com/)がSSL非対応であることをからかったりしているうちに、気がついたらミュージシャンやアーティストのサイトでSSLになっていないホームページを面白がって報告しあうようになった。
 
-更に調子が出てきて、[ピスタチオスタジオゲーム部のDiscordサーバー](https://discord.com/pistachiogaming)でNOT SSLを監視する仕組みづくり始まり、出来上がったのがこれ。
+更に調子が出てきて、[ピスタチオスタジオゲーム部のDiscordサーバー](https://discord.gg/pistachiogaming)でNOT SSLを監視する仕組みづくり始まり、出来上がったのがこれ。
 
 [https://ssl-checker.vercel.app/](https://ssl-checker.vercel.app/)
 
