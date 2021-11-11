@@ -14,7 +14,7 @@
 ## 使い方
 
 1. ピスタチオゲーム部のDiscordサーバーからしか登録は出来ません。
-1. チャット欄で`!!addssl <登録したいURL>`のコマンドを打つ。
+1. チャット欄で`!!addssl <登録したいURL>`のコマンドを打つ。  
 ![image](https://user-images.githubusercontent.com/4445606/141142511-721fb91a-fffb-4d13-b318-eeef1589cbeb.png)
 1. 自作のBot[タコ八](https://github.com/pistachiostudio/takohachi)がデータベースとして使用してるGoogle Spreadsheet(以下GSP)に登録し、監視を開始します。
 
@@ -73,10 +73,10 @@
 - [ ] スプレッドシートA列の`タイトル`をサイトに表示させる
 - [ ] リダイレクトの設定がされているかの判定をする
 - [ ] データベースへの書き込み前にSSLとリダイレクトの判定をかまし、どちらもクリアしているドメインに関しては登録しないなどの対応をする
+- [ ] サイトのカラムにフィルタ機能を追加する
 
 ## ご対応のお願い
-SSL(Secure Socket Layer)とは平たく言うとURLが`http://~`ではなく、`https://~`となっているかということ。この"s"はSecureの"s"。
-
+SSL(Secure Socket Layer)とは平たく言うとURLが`http://~`ではなく、`https://~`となっているかということ。この"s"はSecureの"s"。  
 専門家ではないので詳しいことはわからないけど、とにかくSSLになっていないとGoogle Chromeのアドレスバーにすごい嫌な文字が表示される。嫌だ。
 
 ![image](https://user-images.githubusercontent.com/4445606/141141543-a2c01f66-ed8d-4bd1-a6e0-c969b4470bed.png)
@@ -92,8 +92,9 @@ SSL(Secure Socket Layer)とは平たく言うとURLが`http://~`ではなく、`
 
 この時必ずリダイレクトの設定も忘れずに行ってください！一見https対応されていないと思われ、確認したところhttps対応されているがリダイレクトされていないため、httpとhttpsが両方存在しているような状態になっているケースが散見されました。
 
-サポートが必要な場合は気軽にDiscordで質問してください！
-
+サポートが必要な場合は気軽にDiscordで質問してください！  
+[https://discord.gg/pistachiogaming](https://discord.gg/pistachiogaming)
+  
 ## お誘い
 
 こんな感じでよくわからないものを作って遊んでいます。もし一緒に遊んでくれるおられましたらぜひお声がけください。
