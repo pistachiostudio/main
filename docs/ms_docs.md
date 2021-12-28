@@ -137,8 +137,7 @@ LINEのトーク履歴を見直すと前作[Deep green](https://open.spotify.com
 
 アルバムの中で一番低い周波数まで音が出ている曲なのででっかいクラブの鬼積みウーファーの前で聞いてみたい
 
-![B09E3D6E-4BFE-4B7E-9EF6-FF27750C2F64](https://user-images.githubusercontent.com/4445606/147565974-951b46e8-ad10-471d-bd20-cc442ae5d4f3.png)
-
+![LINE_capture_662387832 466223](https://user-images.githubusercontent.com/4445606/147567209-e91b506d-ab63-41d2-814d-fceb2ad31bc2.jpg)
 
 ## MASTERING
 
