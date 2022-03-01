@@ -66,3 +66,6 @@ WELCOME & INFOカテゴリの中にあるrolesというチャンネルから絵�
 健全な精神は健全な肉体に宿る。  
 健康第一で楽しくVALORANTをしましょう。  
 いつの日かオフライン開催をやります。
+
+![image](https://user-images.githubusercontent.com/4445606/156123039-ce77468d-ed59-452d-b88d-30ee1ea658a9.png)
+
