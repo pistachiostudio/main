@@ -60,3 +60,9 @@
 WELCOME & INFOカテゴリの中にあるrolesというチャンネルから絵文字のリアクションを行い、茂林杯のロールをつけてください。
 
 ![roles](https://user-images.githubusercontent.com/4445606/156114966-bd39ab88-77e5-4ac7-aa53-741fef88f130.png)
+
+
+## 茂林塾長よりコメント
+健全な精神は健全な肉体に宿る。  
+健康第一で楽しくVALORANTをしましょう。  
+いつの日かオフライン開催をやります。
