@@ -5,9 +5,9 @@
 ## 概要
 エンジョイゲームコミュニティ「ピスタチオゲーム部」内で「茂林塾」を運営する茂林塾長が個人的に開催するValorantのコミュニティ大会です。
 
-- 茂林
-- Pistachio Studio
-- ピスタチオゲーム部
+- [茂林 @mtsgdfm](https://twitter.com/mtsgdfm)
+- [Pistachio Studio](https://pistachiostudio.net/)
+- [ピスタチオゲーム部 Discord](https://discord.gg/pistachiogaming)
 
 
 ## 開催日時
