@@ -52,6 +52,7 @@
 
 ## 応募方法
 ※現在は応募締め切り未定！
+
 [こちらの応募フォーム](https://docs.google.com/spreadsheets/d/1vPoDqD9xN6rQeyNKcSPtCxrfODhygdYfXJhHxvse97o/edit#gid=0)に入力いただき、[ピスタチオゲーム部のDiscordサーバー](https://discord.gg/pistachiogaming)に入ってください。
 
 その後、参加者の把握及び連絡のためにサーバーのロールを付与したいので、
