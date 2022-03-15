@@ -46,8 +46,8 @@
 
 ## 賞金
 
-優勝チームには茂林塾長のポケットマネーから賞金が出ます。3万円くらいでしょうか。わかりません。  
-アマギフになる可能性高めです。
+優勝賞金は茂林塾長のポケットマネーから3万円（一人あたり6,000円）。こちらはアマギフになる可能性高めです。  
+さらに **塾長賞 (MVP)** として、[G Pro X Superlight (Black)](https://gaming.logicool.co.jp/ja-jp/products/gaming-mice/pro-x-superlight-wireless-mouse.html)を1名に進呈。MVPは塾長が独自の審査基準で判断いたします。
 
 
 
