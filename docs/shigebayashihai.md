@@ -1,4 +1,4 @@
-# Valorant コミュニティ大会『茂林杯』
+# Valorant クローズド・コミュニティ大会『茂林杯』
 
 ![WIN_20220303_15_43_01_Pro](https://user-images.githubusercontent.com/4445606/156513452-f2d2280b-eab2-46ea-a236-6e610f53a57d.jpg)
 
