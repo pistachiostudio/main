@@ -20,7 +20,7 @@ https://github.com/pistachiostudio/takohachi
 
 ## Wiki
 
-このリポジトリはの[wiki](https://github.com/pistachiostudio/gaming/wiki)にはいろいろなメモを残しています。  
+このリポジトリの[wiki](https://github.com/pistachiostudio/gaming/wiki)にはいろいろなメモを残しています。  
 
 ## Document
 
