@@ -31,6 +31,11 @@ https://github.com/pistachiostudio/takohachi
 
 ファミコンカセット全リストとか、ユーミンの全レコードリストなど、まじでよくわからないものを[dataディレクトリ](https://github.com/pistachiostudio/gaming/tree/main/data)おいています。必要に迫られることがあったら自由に使ってください。
 
+## Lyrics
+
+Pistachio Studioのラップグループ=CBSのリリックを[lyricsリポジトリ](https://github.com/pistachiostudio/lyrics)にまとめています。  
+完全なものではありませんが、追加希望等ございましたら[Discord](https://discord.gg/pistachiogaming)までお気軽にご連絡ください。
+
 ## Links
 
 [links.md](https://github.com/pistachiostudio/gaming/blob/main/links.md)にリンク一覧を置きました。
