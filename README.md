@@ -26,7 +26,6 @@ https://github.com/pistachiostudio/takohachi
 
 適当に書いた駄文を[docsディレクトリ](https://github.com/pistachiostudio/gaming/tree/main/docs)においています。よろしければ読んでください。  
 
-
 ## Data
 
 ファミコンカセット全リストとか、ユーミンの全レコードリストなど、まじでよくわからないものを[dataディレクトリ](https://github.com/pistachiostudio/gaming/tree/main/data)おいています。必要に迫られることがあったら自由に使ってください。
@@ -34,11 +33,17 @@ https://github.com/pistachiostudio/takohachi
 ## Lyrics
 
 Pistachio Studioのラップグループ=CBSのリリックを[lyricsリポジトリ](https://github.com/pistachiostudio/lyrics)にまとめています。  
-完全なものではありませんが、追加希望等ございましたら[Discord](https://discord.gg/pistachiogaming)までお気軽にご連絡ください。
+完全なものではありませんが、追加希望等ございましたら[Discord](https://discord.gg/pistachiogaming)までお気軽に書き込んでください。
 
 ## Links
 
 [links.md](https://github.com/pistachiostudio/gaming/blob/main/links.md)にリンク一覧を置きました。
+
+## Join us!
+
+このOrganizationに参加してくれるContributorいつでも募集しています！  
+プログラムが書けるかどうかは関係なし！Githubの使い方を学びたい人でも歓迎します。  
+いつでも[Discord](https://discord.gg/pistachiogaming)で書き込んでください！
 
 ## sheeeesh
 
