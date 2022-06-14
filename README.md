@@ -29,6 +29,12 @@ https://github.com/pistachiostudio/takohachi
 
 ## Data
 
-ファミコンカセット全リストとか、ユーミンの全レコードリストなど、まじでよくわからないものを[dataディレクトリ](https://github.com/pistachiostudio/gaming/tree/main/data)おいています。必要に迫られることがあったら自由に使ってください。  
+ファミコンカセット全リストとか、ユーミンの全レコードリストなど、まじでよくわからないものを[dataディレクトリ](https://github.com/pistachiostudio/gaming/tree/main/data)おいています。必要に迫られることがあったら自由に使ってください。
+
+## Links
+
+[links.md](https://github.com/pistachiostudio/gaming/blob/main/links.md)にリンク一覧を置きました。
+
+## sheeeesh
 
 <img src="https://user-images.githubusercontent.com/4445606/129143937-ce2f95cc-3a98-4030-bc3c-b2f37a96b0f4.gif" width="300">  
