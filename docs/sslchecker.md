@@ -32,7 +32,7 @@
 ### データベースへの登録部分
 
 [@助六弁当(こやま)](https://twitter.com/quojama)が担当。
-データベースへの登録部分はDiscordのBotで行っています。コードは[ここ](https://github.com/pistachiostudio/takohachi/blob/master/cogs/addssl.py)。
+データベースへの登録部分はDiscordのBotで行っています。データベースとしてGoogle Spreadsheetを使います。gspは誰でも直接サワれるので最高！コードは[ここ](https://github.com/pistachiostudio/takohachi/blob/master/cogs/addssl.py)。
 
 1. Discordのチャット欄で`!!addssl <URL>`コマンドを入力。Botが発動
 2. 引数<URL>がURLじゃない場合は弾く
