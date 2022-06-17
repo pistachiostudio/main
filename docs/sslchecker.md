@@ -14,7 +14,7 @@
 ## 使い方
 
 1. ピスタチオゲーム部のDiscordサーバーからしか登録は出来ません。
-1. チャット欄で`!!addssl <登録したいURL>`のコマンドを打つ。
+1. チャット欄で`!!addssl <登録したいURL>`のコマンドを打つ。  
 ![image](https://user-images.githubusercontent.com/4445606/141142511-721fb91a-fffb-4d13-b318-eeef1589cbeb.png)
 1. 自作のBot[タコ八](https://github.com/pistachiostudio/takohachi)がデータベースとして使用してるGoogle Spreadsheet(以下GSP)に登録し、監視を開始します。
 
