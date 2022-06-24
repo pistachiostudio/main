@@ -46,7 +46,7 @@ Pistachio Studioのラップグループ=CBSのリリックを[lyricsリポジ�
 
 ## Join us!
 
-このOrganizationに参加してくれるContributorいつでも募集しています！  
+ただの遊びですがこのOrganizationに参加してくれるContributorいつでも募集しています！  
 プログラムが書けるかどうかは関係なし！GiHubの使い方を学びたい人でも歓迎します。  
 いつでも[Discord](https://discord.gg/pistachiogaming)で書き込んでください！
 
