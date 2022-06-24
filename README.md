@@ -12,7 +12,7 @@ Pistachio Studioは東京、神奈川を拠点に活動する音楽グループ�
   
 Pistachio Studioからここにたどりついた人、[安藤つ良しの配信](https://www.twitch.tv/tsuyoshi_ando)からの人、その他紆余曲折あってたどり着いた人など色々いると思いますが、年齢も性別も国籍も関係なくフラットに遊びましょう！ここで色んな人と偶然出会い、雑談できたら最高だなーと思っています。  
 
-Join Discord server  
+ご自由に出入りしてください  
 https://discord.gg/pistachiogaming
 
 オリジナルのDiscord Botも作っています  
@@ -21,6 +21,11 @@ https://github.com/pistachiostudio/takohachi
 ## Wiki
 
 このリポジトリの[wiki](https://github.com/pistachiostudio/gaming/wiki)にはいろいろなメモを残しています。  
+
+## Minecraft server
+
+自前のオンプレマイクラサーバー常時稼働中です。こちらもご自由にお入りください。荒らしはやめてね。  
+https://github.com/pistachiostudio/main/wiki/Pistachio-Minecraft-server
 
 ## Document
 
