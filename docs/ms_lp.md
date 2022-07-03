@@ -20,6 +20,10 @@
 ながーく聴いてほしい、いつまでも反芻していきたい大切なアルバムです。（新しいリリースもできたらいいけど）  
 今後ともどうぞよろしくお願いします。
 
+私による曲解説もあるのでそちらも併せてどうぞ  
+[pistachiostudio/main/blob/main/docs/ms_docs.md](https://github.com/pistachiostudio/main/blob/main/docs/ms_docs.md)
+
+
 ## 鈴木真海子
 
 伝えたいことはりょうくんが全て言ってくれました。  
