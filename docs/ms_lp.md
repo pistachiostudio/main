@@ -8,17 +8,17 @@
 
 #### Table of Contents
 
-- [ryo takahashi](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#ryo-takahashi)
-- [鈴木真海子](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#鈴木真海子)
-- [TOSHIKI HAYASHI(%C)](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#toshiki-hayashic)
-- [ESME MORI](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#esme-mori)
-- [kyon](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#kyon)
-- [tajima hal](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#tajima-hal)
-- [安藤つ良し](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E5%AE%89%E8%97%A4%E3%81%A4%E8%89%AF%E3%81%97)
-- [ヨンゲン](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E3%83%A8%E3%83%B3%E3%82%B2%E3%83%B3)
-- [shinobu achiha](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#shinobu-achiha)
-- [こやま](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E3%81%93%E3%82%84%E3%81%BE)
-- [basho](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#basho)
+- [ryo takahashi](#ryo-takahashi)
+- [鈴木真海子](#鈴木真海子)
+- [TOSHIKI HAYASHI(%C)](#toshiki-hayashic)
+- [ESME MORI](#esme-mori)
+- [kyon](#kyon)
+- [tajima hal](#tajima-hal)
+- [安藤つ良し](#安藤つ良し)
+- [ヨンゲン](#ヨンゲン)
+- [shinobu achiha](#shinobu-achiha)
+- [こやま](#こやま)
+- [basho](#basho)
 
 ## ryo takahashi
 
