@@ -1,7 +1,24 @@
 # 鈴木真海子 - ms (LP) 発売コメント by Pistachio Studio
 
+#### Update
+
+- 2022.07.04 add TOC
 - 2022.07.04 add new & re-struct
 - 2022.06.27 first commit
+
+#### Table of Contents
+
+- [ryo takahashi](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#ryo-takahashi)
+- [鈴木真海子](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#鈴木真海子)
+- [TOSHIKI HAYASHI(%C)](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#toshiki-hayashic)
+- [ESME MORI](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#esme-mori)
+- [kyon](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#kyon)
+- [tajima hal](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#tajima-hal)
+- [安藤つ良し](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E5%AE%89%E8%97%A4%E3%81%A4%E8%89%AF%E3%81%97)
+- [ヨンゲン](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E3%83%A8%E3%83%B3%E3%82%B2%E3%83%B3)
+- [shinobu achiha](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#shinobu-achiha)
+- [こやま](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#%E3%81%93%E3%82%84%E3%81%BE)
+- [basho](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp.md#basho)
 
 ## ryo takahashi
 
@@ -209,6 +226,49 @@ iriとの曲。いつも遊んでる二人がやっと曲を作り、周辺と�
 おれはこの曲がかなり好きなので自分でもよく[歌っている](https://twitter.com/quojama/status/1431277148430430208)。
 
 適当レビューは以上です。次はおれプロデュースでレゲエアルバムを作るか。
+
+## basho
+
+#### Lazy river
+
+一曲目にこの曲選んだのもわかる気がする、ラップのスタイルがあるフロウなのに、メロディまでの幅の広さがエグい。フック後のリズムもエグい。乗れる乗れる。
+
+#### judenchu
+
+クラシックなリズムボックスのイントロからの歌詞が凄すぎ。今日はよくやったよね。ストーリーのある文脈から頑張れるんですよね。この曲のおかげで解けました。
+
+#### じゃむ (feat.iri)
+
+いい曲。本当に良い曲。友達いてよかったな?って思う曲。iriさんの一声がすげえ。MVのcallin?callin?のiriさんが可愛い。MV良い！  
+友達の尊さを感じる曲でした。
+
+#### mani
+
+ラップうまいな！！しっかりうまい！着眼点の赤子の三輪車の韻も固い！よく人間観察をしてる模様。  
+間奏の「どれもこれも?」の自然な独り言がしみじみ染みます。
+
+#### 空耳
+
+これが一番好きかも。とにかくLPでだしてくれて本当にありがとう！  
+ぜったいDJの時に流したい曲。空耳に聴こえないんだよな?！っていうこの曲のリズムの細かさと雰囲気はryo takahashiならではなのではないかと！？
+
+#### どっかの土曜日
+
+ハッ、とした！個人的にはしっかり告白として歌詞になっているような気がしてセンシティブな気分にさらなるくらい歌詞がエグい。メロディとリズムと多重音なサビの贅沢な曲ですね?。
+
+#### 山芍薬
+
+別荘借りてPISTACHIOのインスタライブ?とか言ってターンテーブル持ち込みで遊びに行ってしっかり遊んで酔って。その朝に作ってくれたコーヒー飲みながらこれ聴きたくなったんですよね。ふと見えた山芍薬、見たい人生でした。
+
+#### R
+
+挑戦が詰まってるように思う曲の作り方？？  
+自由を感じるんだけどこれもryo takahashiの所業か。ラッパーという人には作れない音楽です。強い！本当にいい曲。歌詞がエグい。個単位で相手を感じる人なんですね。
+
+#### untitled
+
+本人知ってる分今年度のベストソングにしたい曲です！いい奴！遊びに行って飲みに行こ?！
+
 
 ## その他のドキュメントなど
 
