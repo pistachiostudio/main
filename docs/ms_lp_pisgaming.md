@@ -20,13 +20,14 @@ Pistachio Gaming所属、福井県在住28歳独身の福居万太郎と申し�
 
 自分の中で良いアルバムの基準というものがあって、その一つが最初のトラックから最後のトラックまで通しで聴けるということ。多分ではあるが同じようなトラックがただ雑然とまとめられているのではなくてトラック間がシームレスに繋がっていて、且つトラック一つ一つが主張していることが重要なのである。言語化することが難しい部分はあるがただ単にコンセプト・アルバム厨なだけなのかもしれない。本当に気難しいキモい音楽リスナー感が出てしまっている。
 この万太郎アルバム良い論に基づくと、誠に申し訳ない?？がmsは最後まで通しでは聴けないアルバムに属してしまう。通しで聴けないからダメなアルバムというわけではないのでご了承頂きたい。＞＜  
+
 - 以下万太郎良いアルバム論に合致するアルバムを一例しておきます
   - [Toro y Moi『Outer Peace』](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj?si=2Ab7X4gBRFCwYbCExgYZPA)
   - [小袋成彬『Strides』](https://open.spotify.com/album/1gJDOfgiYameDIECD2rQUr?si=nsAsZPgMTLKcg_Usa-Rw_w)
   - [Ovrkast.『Try Again』](https://open.spotify.com/album/0A7bF8ok3Ych1pFMu7HPNA?si=TvQev76NTxi6xkJC9KDlPw)
   - [Shin Sakiura『NOTE』](https://open.spotify.com/album/2h5PLCIWEYt2VJARv8OvYa?si=7W9ZQEgaQFKJqQEqYrvZBQ)  
 
-けれどもつい最近、[こやま御大](https://twitter.com/quojama?s=20&t=Vnhj4SgLdbjwGk_NBtz3Iw)から、『アルバムの中に一つでも好きな曲があったらそれは名盤だよ』というありがたい言葉を頂いて、昔からアルバムの良さの基準にしていた『**通しで聴ける**』という呪縛から少し開放されたのかもしれない。そう、『ms』には好きな曲がいくつもあるんだ。
+けれどもつい最近、[こやま御大](https://twitter.com/quojama)から、『アルバムの中に一つでも好きな曲があったらそれは名盤だよ』というありがたい言葉を頂いて、昔からアルバムの良さの基準にしていた『**通しで聴ける**』という呪縛から少し開放されたのかもしれない。そう、『ms』には好きな曲がいくつもあるんだ。
 
 #### Lazy river
 
