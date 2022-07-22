@@ -96,7 +96,7 @@ msというアルバムの代表曲ですね。
 
 #### mani
 
-pistachioイズムというかcbsイズムを感じた曲  
+Pistachioイズムというかcbsイズムを感じた曲  
 それにしてもラップが上手ですね。
 
 #### 空耳
@@ -115,11 +115,11 @@ pistachioイズムというかcbsイズムを感じた曲
 #### 山芍薬
 
 achihaさんの優しさというか柔らかさが曲に現れていて、ペロンチョです。  
-stardew valleyやりながら聴きたい。
+[Stardew Valley](https://store.steampowered.com/app/413150/Stardew_Valley/?l=japanese)やりながら聴きたい。
 
 #### R
 
-pistachioっぽくない曲なんだけどこういう曲も作れるんですね。  
+Pistachioっぽくない曲なんだけどこういう曲も作れるんですね。  
 次の作品が楽しみです。  
 
 #### untitled
