@@ -2,6 +2,8 @@
 
 #### Update
 
+こんにちわ。
+
 - 2022.07.23 add [review by Pistachio Gaming](https://github.com/pistachiostudio/main/blob/main/docs/ms_lp_pisgaming.md)
 - 2022.07.04 add TOC
 - 2022.07.04 add new & re-struct
