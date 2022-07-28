@@ -10,26 +10,39 @@
 ## Twitter
 
 - [@pstchstd](https://twitter.com/pstchstd)
-- [@PIS_TSUYOSHI](https://twitter.com/PIS_TSUYOSHI)
+- [@PIS\_TSUYOSHI](https://twitter.com/PIS_TSUYOSHI)
 - [@hachijihappun](https://twitter.com/hachijihappun)
 - [@\_\_\_\_\_\_mmk\_\_\_\_\_\_](https://twitter.com/______mmk______)
 - [@bonobonotommy](https://twitter.com/bonobonotommy)
 - [@tajimahello](https://twitter.com/tajimahello)
-- [@esme_mori](https://twitter.com/esme_mori)
+- [@esme\_mori](https://twitter.com/esme_mori)
 - [@kirit0yamada](https://twitter.com/kirit0yamada)
 - [@6kyohei9](https://twitter.com/6kyohei9)
 - [@suppleee](https://twitter.com/suppleee)
-- [@percent_c](https://twitter.com/percent_c)
+- [@percent\_c](https://twitter.com/percent_c)
 - [@saaaaaashiiiii](https://twitter.com/saaaaaashiiiii)
 - [@takayaaa0620](https://twitter.com/takayaaa0620)
-- [@basho___](https://twitter.com/basho___)
+- [@basho\_\_\_](https://twitter.com/basho___)
 - [@aaairyo](https://twitter.com/aaairyo)
 - [@quojama](https://twitter.com/quojama)
 
 ## Instagram
 
-- 👷underconstruction👷‍♀
 - [@pistachiostudio](https://www.instagram.com/pistachiostudio/)
+- [@aaairyo](https://www.instagram.com/aaairyo/)
+- [@percent\_c](https://www.instagram.com/percent_c/)
+- [@quojama](https://www.instagram.com/quojama/)
+- [@kyon\_boy](https://www.instagram.com/kyon_boy/)
+- [@bashou\_](https://www.instagram.com/bashou_/)
+- [@takayaman0620](https://www.instagram.com/takayaman0620/)
+- [@kiritoyamada](https://www.instagram.com/kiritoyamada/)
+- [@\_esme\_mori\_](https://www.instagram.com/_esme_mori_/)
+- [@ac40v](https://www.instagram.com/ac40v/)
+- [@tajimahello](https://www.instagram.com/tajimahello/)
+- [@\_antz\_\_](https://www.instagram.com/_antz__/)
+- [@\_\_\_\_\_\_mmk\_\_\_\_\_\_](https://www.instagram.com/______mmk______/)
+- [@suppleeee](https://www.instagram.com/suppleeee/)
+- [@timt\_\_\_\_\_\_\_\_\_\_](https://www.instagram.com/timt__________/)
 
 ## YouTube
 
@@ -54,4 +67,4 @@
 
 ## Inquiry
 
-- info@pistachiostudio.net
+- ✉info@pistachiostudio.net
