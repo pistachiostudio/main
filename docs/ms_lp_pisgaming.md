@@ -1,5 +1,5 @@
 # 鈴木真海子 - ms (LP) 発売コメント by Pistachio Gaming
-
+mantaro
 #### Update
 
 - 2022.07.14 first commit
