@@ -1,0 +1,1 @@
+アー写、プロフィールなどは [profile_artist_photo/](https://github.com/pistachiostudio/main/tree/main/cbs_kit/profile_artist_photo) ご確認ください！
