@@ -1,3 +1,5 @@
+Shooting & color correction by Oyakata.
+
 ## solo_pis_achiha.png
 
 ![solo_pis_achiha.png](https://github.com/pistachiostudio/main/blob/main/cbs_kit/profile_artist_photo/solo/solo_pis_achiha.png)
@@ -53,4 +55,3 @@
 ## solo_pis_timt.png
 
 ![solo_pis_timt.png](https://github.com/pistachiostudio/main/blob/main/cbs_kit/profile_artist_photo/solo/solo_pis_timt.png)
-
