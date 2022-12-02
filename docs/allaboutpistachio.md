@@ -98,7 +98,7 @@ SSWとして[ソロでの活動](https://www.youtube.com/watch?v=4qu_LWHJUjQ)も
 
 90年生まれ。東京都出身。ギター担当。  
 既婚。職業は通信・システム構築大手企業の営業。  
-加えて、作曲やプロデュース業、[Pearl Center](https://www.youtube.com/watchv=KaM-_m8nCgM)や[Mime](https://www.youtube.com/watch?v=BG4D5BBtWNA)というバンドのドラマー兼作曲家としても活動中。  
+加えて、作曲やプロデュース業、[Mime](https://www.youtube.com/watch?v=BG4D5BBtWNA)というバンドのドラマー兼作曲家としても活動中。  
 
 #### Shinobu Achiha (あちは)
 
