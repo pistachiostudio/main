@@ -77,20 +77,20 @@ Pistachio Studioのハウスバンド。CBSのライブでのバックバンド�
 
 福岡県出身。88年生まれ。バンドではドラム担当。  
 録音とミックス、基本的にはマスタリングも担当。  
-既婚。ガキ1人。猫2匹。  
-業務委託で企業のインフラエンジニアをやりつつ、作曲やプロデュース、録音、ミックスなど音楽に関する仕事全般に引き受ける。ラップグループ [chelmico](https://youtu.be/76sNmqMzUuI) のサウンドを支えている。
+既婚。ガキ1人。猫2匹。 亀１匹。
+作曲やプロデュース、録音、ミックスなど音楽に関する仕事全般に引き受ける。ラップグループ [chelmico](https://youtu.be/76sNmqMzUuI) のサウンドを支えている。
 
 #### Junya Mori / ESME MORI (じゅん、もりじゅん、じゅんじ)
 
 88年生まれ。埼玉県出身。鍵盤担当。  
-既婚。猫2匹。  
+既婚。猫1匹。  
 職業は作曲家/アレンジャー。完全専業で映画やCM音楽からアーティストへの提供、プロデュースなど多岐に渡る。  
 SSWとして[ソロでの活動](https://www.youtube.com/watch?v=4qu_LWHJUjQ)も。
 
 #### Yamada / 四弦力丸 (やまだ、りきまる)
 
 86年生まれ。和歌山県出身。ベース担当。  
-既婚。ガキ1人。  
+既婚。ガキ２人。  
 職業は電子系の営業。コロナ以前は月の半分を海外で過ごす日々だったが、今はそれがほぼなくなる。
 何故か最近トランペットを始めたしい。趣味は将棋とプロ野球観戦。  
 
@@ -249,6 +249,10 @@ satoshi休業へ 1DJ 3MC体制に
 ### 2017年
 
 この体制でのアルバム"Classic Brown Sounds"をCDと配信（[Spotify](https://open.spotify.com/album/3XsjcZE6DEfTtxnxGtrjpA) / [Apple Music](https://music.apple.com/jp/album/classic-brown-sounds/1362958810)）でリリース。  
+
+### 2022年
+
+2ndアルバム"Classic Brown Sounds II"を配信リリース。
 
 そして現在に至る。
 
