@@ -52,8 +52,8 @@ https://merurido.jp/topic.php?ky=78508
 ### CASTLE RECORDS (東京,湯島)
 https://www.castle-records.net/products/detail.php?product_id=12207
 
-
-
+### STEREO REDOCRDS (広島,広島)
+https://www.stereo-records.com/detail.php?itemCd=24322
 
 
 > 2024.9.27更新
