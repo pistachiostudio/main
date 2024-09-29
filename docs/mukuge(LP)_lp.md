@@ -55,8 +55,10 @@ https://www.castle-records.net/products/detail.php?product_id=12207
 ### STEREO REDOCRDS (広島,中区)
 https://www.stereo-records.com/detail.php?itemCd=24322
 
+### Manhattan Records (東京,渋谷)
+https://manhattanrecords.jp/MUKUGE(1LP)/product/0/2000001227947/?cat=112&swrd=
 
-> 2024.9.27更新
+> 2024.9.29更新
 
 
 
