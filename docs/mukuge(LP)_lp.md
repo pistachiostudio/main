@@ -58,7 +58,10 @@ https://www.stereo-records.com/detail.php?itemCd=24322
 ### Manhattan Records (東京,渋谷)
 https://manhattanrecords.jp/MUKUGE(1LP)/product/0/2000001227947/?cat=112&swrd=
 
-> 2024.9.29更新
+### shabby sic ポエトリー (新潟,東堀)
+https://shop.shabbysicpoetry.jp/?pid=182829578
+
+> 2024.9.30更新
 
 
 
