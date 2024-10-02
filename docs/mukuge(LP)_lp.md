@@ -15,8 +15,9 @@
     - からから
     - 5月のうみ
     - お酒を飲んだ夜 feat. Mei Semones
-    - 紀尾井茶房
+
 - Side B
+    - 紀尾井茶房
     - 秘密の楽園
     - in a bubble with u
     - kimochi
