@@ -1,6 +1,8 @@
 # 🌵鈴木真海子 「mukuge」 LP🌵
 
-発売日　2025年1月8日（水）
+~発売日　2025年1月8日（水）~
+追加生産決定!!
+受注受付中 5月半ば発売予定
 
 価格　4,500円（税抜）
 
@@ -62,7 +64,64 @@ https://manhattanrecords.jp/MUKUGE(1LP)/product/0/2000001227947/?cat=112&swrd=
 ### shabby sic ポエトリー (新潟,東堀)
 https://shop.shabbysicpoetry.jp/?pid=182829578
 
-> 2024.9.30更新
+### CORNERSHOP (静岡)
+http://cornershoprecords.com/
+
+### DVD RECORDS in CAPSULE STORE (徳島)
+
+### FACT RECORDS (宮崎)
+https://www.instagram.com/dai_stagram
+
+### FLAKE RECORDS (大阪, 南堀江)
+https://www.flakerecords.com/rcminfo.php?CODE=41768
+
+### introducing! Shop
+https://introducing.thebase.in/
+
+### orab records (岡山)
+https://www.orab.jp/
+
+### OUTSIDE RECORDS (愛知)
+https://www.outside-r.com/
+
+### RECOfan MAGNET by SHIBUYA109 (東京, 渋谷)
+https://www.recofan.co.jp/map/magnet-by-shibuya109.html
+
+### Rotten Blues Records (台湾, 台北)
+https://www.instagram.com/rotten_blues
+
+### September Records (群馬, 高崎)
+https://www.september-records.com/
+
+### THT RECORDS SHOP (台湾, 台北)
+https://www.thtrecords.com/search?q=mukuge&search_history=%5B%5D
+
+### to'morrow records
+https://tomorrow.buyshop.jp/items/98559620
+
+### ガーデン オブ ディライト(岡山, 倉敷)
+https://gardenofdelight.stores.jp/?fbclid=PAZXh0bgNhZW0CMTEAAaY8_JymmQhIT_xGjGYsNHFZhJH4ojIXXDeUZBzNcf2gBnBUtRgM_HYFRZ0_aem_FhWtehsWIEEPphBwpSsyVw
+
+### SECOND LOYAL Records (京都)
+https://shop.secondroyal.com/
+
+### 音楽と雑貨と『bounce』 (姫路)
+https://www.instagram.com/bounce_himeji/
+
+### fastcut records (兵庫)
+https://fastcutrecords.com/
+
+### 東京音樂敗家日記
+https://www.instagram.com/tokyo88diary/
+
+### JET SET
+https://www.jetsetrecords.net/i/414006349509/
+
+### 六本松 蔦屋書店
+https://store.tsite.jp/ropponmatsu/
+
+
+> 2025.2.10更新
 
 
 
