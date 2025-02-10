@@ -116,10 +116,10 @@ https://fastcutrecords.com/
 ### 東京音樂敗家日記
 https://www.instagram.com/tokyo88diary/
 
-### JET SET
+### JET SET　
 https://www.jetsetrecords.net/i/414006349509/
 
-### 六本松 蔦屋書店
+### 六本松 蔦屋書店 (福岡, 六本松)
 https://store.tsite.jp/ropponmatsu/
 
 
