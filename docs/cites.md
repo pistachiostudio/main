@@ -1,10 +1,8 @@
-# [WIP] 園芸における「CITES」と「植物防疫」と「国際希少野生動植物種」
-
-このメモはまだ完成していません。
+# 園芸における「CITES」と「植物防疫」と「国際希少野生動植物種」
 
 ## このメモについて
 
-この文章は[2018年に最初に書きました](https://madmadagascar.hatenablog.com/entry/2018/12/03/030735)。しかし時間とともにいろいろなことが変わったのでここに改めて修正したものを2022年版として書き直します。
+この文章は[2018年に最初に書きました](https://madmadagascar.hatenablog.com/entry/2018/12/03/030735)。しかし時間とともにいろいろなことが変わったので2022年6月に一度書き直し、さらに2026年5月に改訂しました。
 
 ## はじめに
 
@@ -14,7 +12,7 @@
 
 - 絶対間違えられないので、誤りがありましたらご指摘お願いします。
 - ここでは動物に関しては触れず、植物の中でも園芸の観点からまとめました。
-- 初稿は2018年12月。今回は2022年6月に書き直しました。
+- 初稿は2018年12月。2022年6月に一度書き直し、2026年5月に再改訂。
 
 すぐに情報が古くなるので常に最新の情報を入手してください！
 
@@ -50,7 +48,7 @@ CITESでは、稀少性 (絶滅の危険性) を附属書 Ⅰ〜Ⅲの3段階で
 園芸界隈では便宜的に「CITES 1」や「CITES 2」などと呼ばれることが多いです。
 
 分類一覧はここに載っています。  
-[ワシントン条約について（条約全文、付属書、締約国など）（METI/経済産業省）](http://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
+[ワシントン条約について（条約全文、附属書、締約国など）（METI/経済産業省）](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
 
 #### 附属書 Ⅲ
 
@@ -75,6 +73,8 @@ CITESのリストを見てみると、Ⅲだけは種小名のあとに括弧で
 
 ただしこれらの科・属中でも附属書 Ⅰに掲載されている種もあるのでそれらは除く。他にも多数掲載されています。
 
+なお、2026年3月のCOP20（第20回締約国会議）の改正で _Euphorbia bupleurifolia_ （南アフリカ固有の小型多肉植物）が附属書 Ⅱから Ⅰへ格上げされました。ユーフォルビア属の中でも特に乱獲の激しい種は今後も格上げされる可能性があります。
+
 #### 附属書 Ⅰ
 
 最も危険、まじでヤバイ植物。野生個体の輸入は0%ではないが不可能と思っていいです。「かっこいいから現地球育てたい！」なんて絶対無理です。輸入するためには**輸出国および輸入国の両方**の許可証が必要だそうで、非常に手間も時間もかかるそうです。
@@ -98,9 +98,9 @@ CITESは象牙やワニ革のなどの贅沢品の流行による乱獲を防ぐ
 ただし植物においいて「種子」は例外とされ、この許可証が必要でない場合も多いです。
 
 これについては、先程も記載した、  
-[ワシントン条約について（条約全文、付属書、締約国など）（METI/経済産業省）](http://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
+[ワシントン条約について（条約全文、附属書、締約国など）（METI/経済産業省）](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
 
-にある「ワシントン条約附属書 **(解釈)**」というファイルと「ワシントン条約附属書 **(植物界)**」という2つの.pdfファイルを照らし合わせながら確認できます。
+にある「ワシントン条約附属書 **(解釈)**」というファイルと「ワシントン条約附属書 **(植物界)**」という2つの.pdfファイルを照らし合わせながら確認できます。また [CITESチェックリスト検索（checklist.cites.org）](https://checklist.cites.org/) でも種名を直接検索することができます。
 
 まず「ワシントン条約附属書 **(植物界)**」というファイルを見てみると、学名のあとに#で番号が書かれているものがあります。これはその番号を「解釈」のファイルで確認し、意味を見てくださいねということです。
 
@@ -156,6 +156,8 @@ CITESは象牙やワニ革のなどの贅沢品の流行による乱獲を防ぐ
 また、これまでは植物検疫に関してはかなりゆるい部分があり、輸出国の検疫証明書がなくても、帰国後もしくは輸入時に日本国内の空港で簡単な検疫だけ受ければ、警告はされるがパスできたというケースも多々あったようです。  
 しかし2018年10月1日からは容赦しないよという通達がなされました。
 
+さらに2023年4月1日から植物防疫法が26年ぶりに大幅改正されました。侵入雑草や雑草種子が有害植物として法的に定義されたほか、同年8月からは穀類や培養土資材（ピートモス、ヤシ殻など）にも新たに検査証明書が義務化されています。多肉植物やサボテン本体・種子への直接的な影響は限定的ですが、日本への植物の持ち込みに関してはとにかく規制が強化される一方です。
+
 現在ヨーロッパの大きなナーセリーでは、追加で日本円にして3,000円〜5,000円程度を支払えば「植物検疫証明書」の発行を行ってくれるところもありますが、世界的に見て日本への植物の輸出は非常に手間がかかるため、日本への出荷を積極的に行っていないナーセリーや販売者が多いのも実情です。
 
 これらからもわかるように、海外から日本国内に植物や動物、もっと言えば有機物を入れることは容易ではないということです。個人レベルの趣味の園芸では、手間だけでなくコスト面でも輸入は採算が取れにくいです。
@@ -170,7 +172,7 @@ CITESの附属書 Ⅰに掲載されているものがそのまま国内では�
 この国際希少野生動植物種のリストに掲載されているものを国内で販売したり、譲渡するためには、**すべての個体で登録が必要であるかのように**書かれています。
 
 登録がない場合は、販売のための陳列さえ許されないということです。  
-[環境省_譲渡し等の規制及び手続き](http://www.env.go.jp/nature/kisho/kisei/yuzuri/)
+[環境省_譲渡し等の規制及び手続き](https://www.env.go.jp/nature/kisho/kisei/species/trade/)
 
 でも例えば _Astrophytum asterias_ (兜丸)はCITESの附属書 Ⅰに該当します。えっ... とってもヤバイじゃん。
 
@@ -220,7 +222,7 @@ CITESの附属書 Ⅰに掲載されているものがそのまま国内では�
 
 ## 今後どうなっていくのか
 
-このCITESの附属書は3年に一度を目処に更新されているということです。例えばですが、もし今後 _Pachypodium rosulatum_ (2018年現在は附属書 Ⅱに該当)が附属書 Ⅰへと変更になった場合、変種であるグラキリスやイノピナツム、エブレネウムも附属書 Ⅰの対象となってきます。
+このCITESの附属書は3年に一度を目処に更新されているということです。例えばですが、もし今後 _Pachypodium rosulatum_ (2026年現在は附属書 Ⅱに該当)が附属書 Ⅰへと変更になった場合、変種であるグラキリスやイノピナツム、エブレネウムも附属書 Ⅰの対象となってきます。
 
 もしそうなった場合は、いわゆる「山どり」と言われる現地球は一切入ってこなくなるでしょう。正式にCITESの更新があってから、適用されるのは数カ月後ということなので、その数ヶ月の間にとんでもない取引が行われ、一瞬にして高騰やメチャクチャな取引が行われる可能性もあります。
 
@@ -232,17 +234,55 @@ CITESの附属書 Ⅰに掲載されているものがそのまま国内では�
 
 今後もしもパキポディウムが附属書 Ⅰとなり、さらには登録票の対象となった場合は、これまで購入した株を含むすべての株の**譲渡や販売**にはひとつひとつ登録票が必要となります。そのまま自分で育て続ける場合にはこの限りではなさそうです。
 
+### 2026年5月時点での現状
+
+直近ではCOP20が2025年11月24日〜12月5日にウズベキスタンのサマルカンドで開催されました。この会議での附属書改正は**2026年3月5日から有効**になっています。
+
+園芸的に関係のある植物での変更点は以下のとおりです。
+
+- **_Jubaea chilensis_（チリーの椰子）**: 附属書 Ⅰへ新規追加。南米原産の椰子で、園芸では稀にみかける程度ですが商業的輸入は実質不可能に。
+- **_Anacampseros quinaria_（旧 _Avonia quinaria_）**: 附属書 Ⅱ → Ⅰへ格上げ。南アフリカ産の小型多肉植物。
+- **_Euphorbia bupleurifolia_**: 附属書 Ⅱ → Ⅰへ格上げ。南アフリカ固有の小型多肉植物で、ユーフォルビアの中では比較的人気のある種でした。
+- アロエの一部（_Aloe bergeriana_, _A. jeppeae_, _A. subspicata_, _A. welwitschii_）が附属書 Ⅱへ新規追加。
+
+一方で、**コピアポアは今回のCOP20でも附属書 Ⅰへの変更提案は採択されず**、引き続きサボテン科として附属書 Ⅱのままです。心配していた事態はまだ起きていないということですが、チリのアタカマ砂漠での乱獲問題は依然として深刻です。いつ動きがあってもおかしくないので油断は禁物です。
+
+**パキポディウム属**についても附属書の分類変更はありませんでした。ただしKew（英国王立植物園）による新たな命名法チェックリストがCOP20に提出されており、今後学名の整理が進むことで取引上の表記が変わる可能性はあります。
+
+次回のCOP21は2028年頃の開催が見込まれます。
+
 ## 参考
 
-- [CITES](https://www.cites.org/)
+### CITES（ワシントン条約）
+
+- [CITES 公式サイト](https://www.cites.org/)
+- [CITESチェックリスト検索](https://checklist.cites.org/)
+- [CITES COP20（第20回締約国会議）公式ページ](https://cites.org/eng/cop20)
+- [COP20 概要レポート（IISD Earth Negotiations Bulletin）](https://enb.iisd.org/articles/cites-cop20)
+- [Kew at CITES COP20（Kew Royal Botanic Gardens）](https://www.kew.org/science/cites-cop20)
+- [COP20採択結果（南アフリカ政府発表）](https://www.sanews.gov.za/south-africa/sas-proposals-adopted-cites-cop20)
 - [絶滅のおそれのある野生動植物の種の国際取引に関する条約 - Wikipedia](https://ja.wikipedia.org/wiki/%E7%B5%B6%E6%BB%85%E3%81%AE%E3%81%8A%E3%81%9D%E3%82%8C%E3%81%AE%E3%81%82%E3%82%8B%E9%87%8E%E7%94%9F%E5%8B%95%E6%A4%8D%E7%89%A9%E3%81%AE%E7%A8%AE%E3%81%AE%E5%9B%BD%E9%9A%9B%E5%8F%96%E5%BC%95%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9D%A1%E7%B4%84)
-- [ワシントン条約について（条約全文、付属書、締約国など）（METI/経済産業省）](http://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
-- [国際希少種の登録・製品認定 ｜ 自然環境研究センター](http://www.jwrc.or.jp/service/cites/index.htm)
+
+### 経済産業省（国際取引の管轄）
+
+- [ワシントン条約について（条約全文、附属書、締約国など）（METI/経済産業省）](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_about.html)
+- [ワシントン条約に関する最新情報（METI/経済産業省）](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/info.html)
+- [ワシントン条約規制対象種の調べ方（METI/経済産業省）](https://www.meti.go.jp/policy/external_economy/trade_control/02_exandim/06_washington/cites_search.html)
+
+### 環境省（国内希少種の管轄）
+
 - [環境省_外国産の希少種の指定](https://www.env.go.jp/nature/kisho/global/)
+- [環境省_国際希少野生動植物種一覧](https://www.env.go.jp/nature/kisho/global/list.html)
+- [環境省_譲渡し等の規制及び手続き](https://www.env.go.jp/nature/kisho/kisei/species/trade/)
 - [環境省_パンフレット等](https://www.env.go.jp/nature/kisho/pamphlet/)
-- [輸出検査について：植物防疫所](http://www.maff.go.jp/pps/j/introduction/export/ekensa/index.html)
-- [The MIA ! : 国際希少野生動植物登録票](http://blog.livedoor.jp/za_mia/archives/16468632.html)
-- [ワシントン条約とアジアアロワナ – Monsters Pro Shop](http://www.monstersproshop.com/cites-asianarowana/)
-- [サボテンの輸出入について](http://saisen-en.com/newpage7.html)
+
+### 農林水産省・植物防疫所（植物検疫）
+
+- [植物を海外から日本へ持ち込む場合の規制：植物防疫所](https://www.maff.go.jp/pps/j/introduction/japanese.html)
+- [輸入植物検疫の見直し：農林水産省](https://www.maff.go.jp/j/syouan/keneki/kikaku/minaoshi_keneki.html)
+
+### その他
+
 - [ワシントン条約 ｜ 外務省](https://www.mofa.go.jp/mofaj/gaiko/kankyo/jyoyaku/wasntn.html)
-- [ワシントン条約(CITES,サイテス)のまとめ～初心者のためのサイテス入門 | インコ生活〜飼い方・育て方の総合情報サイト](https://inko.exp.jp/2016/10/04/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E6%9D%A1%E7%B4%84cites%E3%82%B5%E3%82%A4%E3%83%86%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81%EF%BD%9E%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E3%81%9F/)
+- [国際希少種の登録・製品認定 ｜ 自然環境研究センター](http://www.jwrc.or.jp/service/cites/index.htm)
+- [ワシントン条約(CITES,サイテス)のまとめ～初心者のためのサイテス入門 | インコ生活](https://inko.exp.jp/2016/10/04/%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E6%9D%A1%E7%B4%84cites%E3%82%B5%E3%82%A4%E3%83%86%E3%82%B9%E3%81%AE%E3%81%BE%E3%81%A8%E3%82%81%EF%BD%9E%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AE%E3%81%9F/)
